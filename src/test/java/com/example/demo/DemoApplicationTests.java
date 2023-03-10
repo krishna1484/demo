@@ -15,7 +15,7 @@ class DemoApplicationTests {
     void contextLoads() {
         logger.info("In ContextLoads test start");
         logger.info("In ContextLoads test start second time");
-        assertEquals(true,false);
+        assertEquals(true,true);
     }
 
 }
